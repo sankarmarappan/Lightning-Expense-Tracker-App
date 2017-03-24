@@ -1,0 +1,508 @@
+[
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354493931,
+            "changeTime": 1490354494263,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354493939,
+            "changeTime": 1490354493939,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494067,
+            "changeTime": 1490354494067,
+            "contentHash": "27359621e965680400d67bcb260bd7c6a08491a5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354493946,
+            "changeTime": 1490354493946,
+            "contentHash": "c3113cb53f676df62f23f57449c158696dbe87d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\applications\\ExpenseTracker.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\applications\\ExpenseTracker.app-meta.xml",
+            "isDirectory": false,
+            "size": 466,
+            "modifiedTime": 1490354232059,
+            "changeTime": 1490354232059,
+            "contentHash": "3084dcc71b78ade550daa3b62d6a003a701bf1d4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494021,
+            "changeTime": 1490354494021,
+            "contentHash": "16d62282e8297bc482fdd7a1b642dea9b33f39cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354493968,
+            "changeTime": 1490354493968,
+            "contentHash": "51da43908c9aa8fe65e11622dd3636f9e43d7d7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList\\expenseList.cmp",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList\\expenseList.cmp",
+            "isDirectory": false,
+            "size": 1640,
+            "modifiedTime": 1490354232062,
+            "changeTime": 1490354232062,
+            "contentHash": "b516cd3e63bb7201aca44b887872ebed64a941cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList\\expenseList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList\\expenseList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1490354232064,
+            "changeTime": 1490354232064,
+            "contentHash": "4c9d701a482448f058bb8c3c052aba0541a6747e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList\\expenseListController.js",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseList\\expenseListController.js",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1490354232066,
+            "changeTime": 1490354232066,
+            "contentHash": "9fb2f1214536154baaf87dc31c85e95f4eb3a451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseTracker",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseTracker",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354493983,
+            "changeTime": 1490354493983,
+            "contentHash": "0cc11dadbf56074f25da38d5b9ee2f993984b52a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseTracker\\expenseTracker.app",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseTracker\\expenseTracker.app",
+            "isDirectory": false,
+            "size": 767,
+            "modifiedTime": 1490354232068,
+            "changeTime": 1490354232068,
+            "contentHash": "e183e6f34cc8da7a45935b1a040f7c96d6d8f7d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseTracker\\expenseTracker.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\expenseTracker\\expenseTracker.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1490354232069,
+            "changeTime": 1490354232069,
+            "contentHash": "4c9d701a482448f058bb8c3c052aba0541a6747e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494007,
+            "changeTime": 1490354494007,
+            "contentHash": "31ca53eb670e70999a426108b3c173dce2ad13e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\form.cmp",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\form.cmp",
+            "isDirectory": false,
+            "size": 5882,
+            "modifiedTime": 1490354232072,
+            "changeTime": 1490354232072,
+            "contentHash": "72c30052aa81dec1093b3f194c6dadc78381b019",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\form.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\form.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1490354232073,
+            "changeTime": 1490354232073,
+            "contentHash": "4c9d701a482448f058bb8c3c052aba0541a6747e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\form.css",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\form.css",
+            "isDirectory": false,
+            "size": 269,
+            "modifiedTime": 1490354232079,
+            "changeTime": 1490354232079,
+            "contentHash": "d37cd98681043a5126e12a789bfa64a32f9bb2be",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\formController.js",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\formController.js",
+            "isDirectory": false,
+            "size": 706,
+            "modifiedTime": 1490354232085,
+            "changeTime": 1490354232085,
+            "contentHash": "244870f7abac5c5ecccfd6919563ac41c3248085",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\formHelper.js",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\form\\formHelper.js",
+            "isDirectory": false,
+            "size": 1511,
+            "modifiedTime": 1490354232090,
+            "changeTime": 1490354232090,
+            "contentHash": "9e7e7582e520094e64d1f0a0bb5a5a795954e584",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\updateExpenseItem",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\updateExpenseItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494029,
+            "changeTime": 1490354494029,
+            "contentHash": "4a974bb5172fa60dca0a5ea1f0f5e6095f251b2a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\updateExpenseItem\\updateExpenseItem.evt",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\updateExpenseItem\\updateExpenseItem.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1490354232094,
+            "changeTime": 1490354232094,
+            "contentHash": "63a395c978ce0fa704fa644238761e100c1ba868",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\updateExpenseItem\\updateExpenseItem.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\aura\\updateExpenseItem\\updateExpenseItem.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1490354232095,
+            "changeTime": 1490354232095,
+            "contentHash": "4c9d701a482448f058bb8c3c052aba0541a6747e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494051,
+            "changeTime": 1490354494051,
+            "contentHash": "089cedadf752b4ca3dd95f3a1b7eabb7a776da49",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController.cls",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController.cls",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1490354232097,
+            "changeTime": 1490354232097,
+            "contentHash": "5dc4e0ac0a3188200675fb527e3f98f6e5af711a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1490354232099,
+            "changeTime": 1490354232099,
+            "contentHash": "9fc56fe52a243c199f97ebcf2b8b6e40afcc085d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController_Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1910,
+            "modifiedTime": 1490355094108,
+            "changeTime": 1490355094108,
+            "contentHash": "0c2af3794c998b2e28ecae64428f1769f4636f9d"
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController_Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\classes\\ExpenseController_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1490355094106,
+            "changeTime": 1490355094106,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494057,
+            "changeTime": 1490354494057,
+            "contentHash": "e15ea744300e5f3377055aaf1ccbeb54606bbf43",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2564,
+            "modifiedTime": 1490354232112,
+            "changeTime": 1490354232112,
+            "contentHash": "9c947dbf23705fc7e8ac2725ee8ccd038a634581",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494063,
+            "changeTime": 1490354494063,
+            "contentHash": "bb3b3428315bbabb5ebbd87e3d5685bf5e64f1b8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\objects\\Expense__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\objects\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 4031,
+            "modifiedTime": 1490354232113,
+            "changeTime": 1490354232113,
+            "contentHash": "38e48c362f7460ce0d73bfe4fe71fa286d78227b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354494069,
+            "changeTime": 1490354494069,
+            "contentHash": "db3a225c5eb659da5c801daabda3f731f6107666",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\tabs\\Expense__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo\\force-app\\main\\default\\tabs\\Expense__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 234,
+            "modifiedTime": 1490354232115,
+            "changeTime": 1490354232115,
+            "contentHash": "112edbc85168e04ca8139146a3c31d7fd5daf34c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mst\\Documents\\DevOpsTeamDemo",
+        {
+            "sourcePath": "C:\\Users\\mst\\Documents\\DevOpsTeamDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490354556821,
+            "changeTime": 1490354556821,
+            "contentHash": "d913abe8c9e1d613ba842d8e33ddd0d9d5d7cb15",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
